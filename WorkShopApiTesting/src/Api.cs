@@ -45,30 +45,5 @@ namespace WorkShopApiTesting.src
             var request = new RestRequest($"/put", Method.PUT);
             return client.Execute(request);
         }
-        public IRestResponse GetSc()
-        {
-            var request = new RestRequest($"/status/200", Method.GET);
-            return client.Execute(request);
-        }
-        public IRestResponse DeleteSc()
-        {
-            var request = new RestRequest($"/status/200", Method.DELETE);
-            return client.Execute(request);
-        }
-        public IRestResponse PatchSc()
-        {
-            var request = new RestRequest($"/status/200", Method.PATCH);
-            return client.Execute(request);
-        }
-        public IRestResponse PostSc()
-        {
-            var request = new RestRequest($"/status/200", Method.POST);
-            return client.Execute(request);
-        }
-        public IRestResponse PutSc()
-        {
-            var request = new RestRequest($"/status/200", Method.PUT);
-            return client.Execute(request);
-        }
     }
 }
