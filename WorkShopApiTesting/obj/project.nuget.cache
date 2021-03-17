@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ws+ArnGFAcRTsLggJ3/mKjcPBV7JAwjSsA83iu2XGTXzNSBLjW4x7rj8B0XtermTrGidnjKe17VhkBCz4zbE1g==",
+  "dgSpecHash": "MWGrwUHqck4pPAdrFFWRu241orKmQKJYGMzRvHj5uz3LQUDO4B41iRghIEqTDfjZj+mmkZlRrX/yAqSQO7IaVQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\epalomaresm\\Documents\\TestingTrain\\WorkShopApiTesting\\WorkShopApiTesting\\WorkShopApiTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\epalomaresm\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\epalomaresm\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\epalomaresm\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\epalomaresm\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\epalomaresm\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\epalomaresm\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\epalomaresm\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
     "C:\\Users\\epalomaresm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\epalomaresm\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

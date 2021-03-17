@@ -96,3 +96,5 @@ C:\Users\epalomaresm\Documents\TestingTrain\WorkShopApiTesting\WorkShopApiTestin
 C:\Users\epalomaresm\Documents\TestingTrain\WorkShopApiTesting\WorkShopApiTesting\obj\Debug\netcoreapp3.1\WorkShopApiTesting.pdb
 C:\Users\epalomaresm\Documents\TestingTrain\WorkShopApiTesting\WorkShopApiTesting\obj\Debug\netcoreapp3.1\WorkShopApiTesting.genruntimeconfig.cache
 C:\Users\epalomaresm\Documents\TestingTrain\WorkShopApiTesting\WorkShopApiTesting\obj\Debug\netcoreapp3.1\WorkShopApiTesting.csprojAssemblyReference.cache
+C:\Users\epalomaresm\Documents\TestingTrain\WorkShopApiTesting\WorkShopApiTesting\bin\Debug\netcoreapp3.1\data\user_01.json
+C:\Users\epalomaresm\Documents\TestingTrain\WorkShopApiTesting\WorkShopApiTesting\bin\Debug\netcoreapp3.1\data\user_02.json
