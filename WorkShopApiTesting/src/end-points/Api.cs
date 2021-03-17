@@ -16,11 +16,6 @@ namespace WorkShopApiTesting.src
             client = new RestClient(url);
         }
 
-        public void GetIp()
-        {
-
-        }
-
         public IRestResponse Get()
         {
             var request = new RestRequest($"/get",Method.GET);
