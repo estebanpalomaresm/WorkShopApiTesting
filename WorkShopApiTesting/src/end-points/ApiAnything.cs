@@ -32,7 +32,6 @@ namespace WorkShopApiTesting.src.end_points
         public IRestResponse Get(string jsonString)
         {
             var request = new RestRequest(Method.GET);
-            //request.AddJsonBody(jsonString);
             return client.Execute(request);
         }
 
